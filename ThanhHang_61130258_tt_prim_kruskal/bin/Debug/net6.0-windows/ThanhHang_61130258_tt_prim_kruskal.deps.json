@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ThanhHang_61130258_tt_prim_kruskal/1.0.0": {
+        "runtime": {
+          "ThanhHang_61130258_tt_prim_kruskal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThanhHang_61130258_tt_prim_kruskal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
